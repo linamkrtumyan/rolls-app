@@ -1,4 +1,4 @@
-## Rolls shop app
+## Rolls shop app (React Native Expo + Nativewind(Tailwind) + Typescript + Redux toolkit)
 
 1. Install dependencies
 
